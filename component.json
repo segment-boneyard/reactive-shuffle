@@ -1,0 +1,9 @@
+{
+  "name": "reactive-shuffle",
+  "description": "Shuffle child elements",
+  "version": "0.0.1",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "pazguille/shuffle-array": "811a24731865d6b2bb992c5092d15e4f815fc0e8"
+  }
+}
